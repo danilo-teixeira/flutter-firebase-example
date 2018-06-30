@@ -6,3 +6,6 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+# Build Android
+https://github.com/danilo-teixeira/flutter-firebase-example/raw/master/baby_names.apk
